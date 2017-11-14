@@ -2,7 +2,7 @@
 
 <img src="https://travis-ci.org/benbalter/dc-wifi-social.png">
 
-[![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/rsignell-usgs/dc-wifi-social/master?filepath=geojson_style_test.ipynb)
+[![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/rsignell-usgs/dc-wifi-social/master?urlpath=%2Fapps%2Fgeojson_style_test.ipynb)
 
 ### A collaborative list of DC locations that serve up both Internet and Alcohol
 
