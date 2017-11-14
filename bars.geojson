@@ -11,7 +11,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "bar",
+        "marker-symbol": "bus",
         "name": "The Exchange",
         "address": "1719 G St NW"
       }
@@ -26,7 +26,8 @@
         ]
       },
       "properties": {
-        "marker-symbol": "bar",
+        "marker-symbol": "bus",
+	"marker-color": "#be3737",
         "name": "Blackfin",
         "address": "1620 I St NW"
       }
@@ -42,129 +43,10 @@
       },
       "properties": {
         "marker-symbol": "bar",
+	"marker-color": "#288a28",
         "name": "Churchkey",
         "address": "1337 14th St NW",
         "note": "Ask the bartender for the password"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.018728,
-          38.902708
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Busboys and Poets",
-        "address": "1025 5th St NW, Washington DC, 20001"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.047745,
-          38.909637
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "SoHo Cafe",
-        "address": "2150 P St NW"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.018627,
-          38.899924
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Chinatown Coffee Company",
-        "address": "475 H St NW"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.04345,
-          38.905342
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Science Club",
-        "address": "1136 19th St NW"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.027744,
-          38.929675
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Wonderland Ballroom",
-        "address": "  1101 Kenyon St NW"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.031888,
-          38.930366
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Sticky Fingers Bakery",
-        "address": "1370 Park Rd NW, Washington, DC 20010"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.940028,
-          38.954998
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Busboys and Poets",
-        "address": "5331 Baltimore Ave, Hyattsville, MD 20781"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.031863,
-          38.917992
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Busboys and Poets",
-        "address": "2021 14th St NW, Washington, DC 20009"
       }
     },
     {
